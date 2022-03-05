@@ -1,0 +1,5 @@
+import{_ as s,b as a}from"./app.9bbaea34.js";const n={},e=a(`<h3 id="css-padding" tabindex="-1"><a class="header-anchor" href="#css-padding" aria-hidden="true">#</a> css - padding</h3><p>\u9EBB\u9EBB\u518D\u4E5F\u4E0D\u4F1A\u62C5\u5FC3padding\u5F71\u54CD\u76D2\u5B50\u7684\u5C3A\u5BF8\u4E86</p><div class="language-css ext-css line-numbers-mode"><pre class="language-css"><code>1\u3001padding\u503C\u66B4\u8D70\uFF0C\u4E00\u5B9A\u4F1A\u5F71\u54CD\u5C3A\u5BF8 \u8868\u793Apadding\u7684\u503C\u5DE8\u5927
+2\u3001width\u975Eauto\uFF0Cpadding\u5F71\u54CD\u5C3A\u5BF8	\u8BE5\u76D2\u5B50\u8BBE\u7F6E\u4E86\u5B9A\u7684width
+3\u3001width\u4E3Aauto \u6216\u8005box-sizing\u4E3Aborder-box\uFF0C\u540C\u65F6padding\u6CA1\u6709\u66B4\u8D70\uFF0C\u4E0D\u5F71\u54CD\u5C3A\u5BF8
+                                            ------\u6765\u6E90\u4E8E--\u5F20\u946B\u65ED\u7B14\u8BB0---
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div>`,3);function d(i,r){return e}var p=s(n,[["render",d]]);export{p as default};
