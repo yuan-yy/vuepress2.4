@@ -1,0 +1,1 @@
+import{i as r,q as s,l as a,r as e,s as m,t as n}from"./app.a310dcb1.js";import{S as p}from"./SkipLink.b33293c2.js";var l=r({name:"Layout",setup(){const o=n(),t=s();return()=>[a(p),a(e("CommonWrapper"),()=>t.value.home?a(e("HomePage")):a(m,()=>a(e("NormalPage"),{key:o.value.path})))]}});export{l as default};
