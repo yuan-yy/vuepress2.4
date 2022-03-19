@@ -1,1 +1,0 @@
-import{_ as e,o as a,b as t,d as _,f as c}from"./app.72e73615.js";const r={},s={id:"javascript-\u4F5C\u7528\u57DF",tabindex:"-1"},o=_("a",{class:"header-anchor",href:"#javascript-\u4F5C\u7528\u57DF","aria-hidden":"true"},"#",-1),n=c(" JavaScript \u4F5C\u7528\u57DF"),d=[o,n];function i(h,f){return a(),t("h2",s,d)}var l=e(r,[["render",i]]);export{l as default};
