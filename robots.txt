@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-v2-demo.mrhope.site/vuepress2.4/sitemap.xml
+Sitemap: https://yuan-yy.github.io/vuepress2.4/vuepress2.4/sitemap.xml
