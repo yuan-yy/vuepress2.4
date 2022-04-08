@@ -1,1 +1,0 @@
-import{_ as e,o as a,a as t,b as _,e as c}from"./app.e419ddea.js";const r={},s={id:"javascript-\u4F5C\u7528\u57DF",tabindex:"-1"},o=_("a",{class:"header-anchor",href:"#javascript-\u4F5C\u7528\u57DF","aria-hidden":"true"},"#",-1),n=c(" JavaScript \u4F5C\u7528\u57DF"),i=[o,n];function d(h,p){return a(),t("h2",s,i)}var l=e(r,[["render",d]]);export{l as default};
