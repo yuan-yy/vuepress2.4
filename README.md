@@ -1,0 +1,7 @@
+# vuepress2.4
+*** 首页
+![image](https://user-images.githubusercontent.com/56060671/178253101-0cf1727c-bf95-4fef-80bb-c1bd8f62ecb1.png)
+*** 结合algolia
+![image](https://user-images.githubusercontent.com/56060671/178253272-76787be2-b862-48e9-846f-c1e63d4cabcb.png)
+
+
